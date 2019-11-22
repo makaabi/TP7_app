@@ -10,7 +10,7 @@ import { ErrorComponent } from './application/error/error.component';
 import { MenuComponent } from './application/menu/menu.component';
 import { ProduitComponent } from './application/produit/produit.component';
 import { ProduitsComponent } from './application/produits/produits.component';
-import { AddProduitComponent } from './application/add-produit/add-produit.component';
+
 
 
 
@@ -22,8 +22,7 @@ import { AddProduitComponent } from './application/add-produit/add-produit.compo
     ErrorComponent,
     MenuComponent,
     ProduitComponent,
-    ProduitsComponent,
-    AddProduitComponent
+    ProduitsComponent
   ],
   imports: [
     BrowserModule,
